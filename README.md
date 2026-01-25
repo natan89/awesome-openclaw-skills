@@ -23,13 +23,6 @@ These skills follow the Agent Skill convention develop by Anthropic - an open st
 npx clawdhub@latest install <skill-slug>
 ```
 
-Or install the CLI globally:
-
-```bash
-npm i -g clawdhub
-clawdhub install <skill-slug>
-```
-
 ### Manual Installation
 
 Copy the skill folder to one of these locations:
