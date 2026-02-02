@@ -1,6 +1,6 @@
-# Contributing to Awesome Moltbot Skills
+# Contributing to Awesome OpenClaw Skills
 
-A curated list of skills for OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge). We organize links to skills hosted in the [official OpenClaw skills repo](https://github.com/openclaw/skills/tree/main/skills).
+A curated list of skills for OpenClaw (previously known as OpenClaw, originally Clawdbot... identity crisis included, no extra charge). We organize links to skills hosted in the [official OpenClaw skills repo](https://github.com/openclaw/skills/tree/main/skills).
 
 ## Adding a Skill
 
@@ -25,10 +25,11 @@ If an author has multiple skills in the same area, please don't add them one by 
 
 ### Requirements
 
-- Skill must be published to the [Moltbot official skills repo](https://github.com/openclaw/skills/tree/main/skills)
+- Skill must be published to the [OpenClaw official skills repo](https://github.com/openclaw/skills/tree/main/skills)
 - Has documentation (SKILL.md)
 - Description must be concise — 10 words or fewer
 - Skill must have real community usage. We focus on community-adopted, proven skills published by development teams and proven in real-world usage. Brand new skills are not accepted — give your skill time to mature and gain users before submitting
+- No crypto, blockchain, DeFi, or finance-related skills for now
 
 ### PR Title
 
@@ -41,13 +42,13 @@ If an author has multiple skills in the same area, please don't add them one by 
 
 ## Important
 
-- This repository curates links only. Each skill lives in the official Moltbot skills repo.
+- This repository curates links only. Each skill lives in the official OpenClaw skills repo.
 - Verify your links work before submitting.
 - We review all submissions and may decline skills that don't meet the quality bar.
 - Do not submit duplicate skills that serve the same purpose as an existing entry.
 
 ## Help
 
-- Check existing [issues](https://github.com/VoltAgent/awesome-moltbot-skills/issues) and PRs first
+- Check existing [issues](https://github.com/VoltAgent/awesome-openclaw-skills/issues) and PRs first
 - Open a new issue for questions
 - Visit the skill's SKILL.md for skill-specific help
