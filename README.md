@@ -90,3 +90,5 @@ This project relates to the following topics:
 - openclaw-skills
 
 Thank you for checking out awesome-openclaw-skills! We look forward to seeing how you use these skills to enhance your OpenClaw experience.
+
+- [lobsterdomains](https://clawhub.ai/esokullu/lobsterdomains) - Register ICANN domains with crypto payments via API, built for AI agents
